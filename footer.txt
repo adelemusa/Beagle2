@@ -1,0 +1,1 @@
+<div id="footer"><img style="float:left; vertical-align:central; padding-left:50px; padding-top:2px" src="images/logoTorVergata.png" width="42" height="55" alt="logoTV" /><div style="padding-top:20px;">© 2024 Helmer-Citterich LAB, Centre for Molecular Bioinformatics, University of Rome "Tor Vergata".</div></div>

@@ -1,0 +1,18 @@
+<div id="header" align="center" style="display: flex; justify-content: center; align-items: center;">
+  <!-- Logocane image on the left -->
+  <a href="/index.php" style="margin-right: 20px">
+    <img src="../images/logocane.png" alt="logocane" name="logocane" width="80" height="60" style="padding-bottom: 15px;" />
+  </a>
+  <!-- Beagle logo on the right -->
+  <a href="/index.php">
+    <img src="../images/Beagle 2.0.png" alt="logo" name="logo" width="450" height="94" />
+  </a>
+</div>
+
+
+<!-- Da qui inizia il menu da copiare in un file esterno -->
+<div id="navigation" align="center">
+  <a class="menu" href="/index.php" target="_self">Home</a>
+  <a class="menu" href="/documentation.php" target="_self">Documentation</a>
+  <a class="menuEnd" href="/contacts.php" target="_self">Contacts</a>
+</div>
